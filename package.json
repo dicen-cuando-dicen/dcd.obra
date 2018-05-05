@@ -1,0 +1,19 @@
+{
+  "name": "dcd",
+  "version": "1.0.0",
+  "description": "Dicen cuando dicen. Obra.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dicen-cuando-dicen/dcd.obra.git"
+  },
+  "author": "Emiliano Pablo López",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dicen-cuando-dicen/dcd.obra/issues"
+  },
+  "homepage": "https://github.com/dicen-cuando-dicen/dcd.obra#readme"
+}
